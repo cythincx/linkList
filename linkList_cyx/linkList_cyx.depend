@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1381548873 source:e:\users\cyx\desktop\linklist_cyx\linklist.cpp
+	<iostream>
+	"LinkList.h"
+
+1381550016 e:\users\cyx\desktop\linklist_cyx\linklist.h
+	<iostream>
+	"LNode.h"
+
+1381544968 e:\users\cyx\desktop\linklist_cyx\lnode.h
+	<iostream>
+
+1381550010 source:e:\users\cyx\desktop\linklist_cyx\main.cpp
+	<iostream>
+	"LNode.h"
+	"LinkList.h"
+
